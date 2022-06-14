@@ -1,0 +1,42 @@
+#container{
+    width: 700px;
+    height: 700px;
+    margin: auto;
+    background: red;
+}
+
+h1{
+    padding: 20px;
+    color: purple;
+}
+
+
+.light-off{
+    width: 400px;
+    height: 400px;
+    background: url("light\ on.PNG")no-repeat;
+    margin: auto;
+}
+
+.light-on{
+    width:400px;
+    height: 400px;
+    background: url("lightonyellow.PNG")no-repeat;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
